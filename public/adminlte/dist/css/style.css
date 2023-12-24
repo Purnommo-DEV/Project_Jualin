@@ -1,0 +1,2264 @@
+/* mobile vers */
+@media (max-width: 575.98px) {
+    .nav-pills .nav-link.active {
+        background-color: transparent;
+        border-bottom: solid #007bff;
+        color: #007bff;
+        font-weight: bold;
+        border-radius: 0px;
+    }
+
+    .col-md-9 .cola .nav-pills .nav-link:hover {
+        border-bottom: #007bff solid;
+        font-weight: bold;
+        border-radius: 0px;
+    }
+
+
+
+    .card .card-body h3 {
+        margin-top: -25px;
+        color: #eeca00;
+        font-weight: bold;
+        margin-bottom: 31px;
+    }
+
+    .card .card-body i {
+        margin-left: 31px;
+        margin-top: 22px;
+    }
+    .card-body .list-group-item {
+        margin-left: 20px;
+    } 
+
+    .card-body .list-group-item a .row {
+        margin-left: -4px;
+        margin-top: -24px;
+        margin-bottom: 5px;
+
+    }
+
+    .card-body .list-group-item a .row h6 {
+        margin-top: 38px;
+        margin-left: 5px;
+    }
+
+    .card-body .list-group-item a .row i {
+        margin-left: 2px;
+        color: #eeca00;
+    }
+
+    .card .card-body .list-group-item h6 {
+        font-size: 11px;
+        color: rgb(174, 174, 174);
+    }
+
+    .card .card-body .list-group-item i {
+        margin-left: 2px;
+    }
+
+    .card .card-body .list-group-item h3 {
+        margin-top: -10px;
+        margin-left: -2px;
+        color: black;
+        font-size: 16px;
+    }
+
+    .dprodukatas {
+        margin-left: -74px;
+        margin-bottom: 43px;
+    }
+
+    .dprodukatas .dropdown {
+        margin-left: 226px;
+        margin-top: -40px;
+    }
+
+    .dprodukatas a {
+        margin-left: -20px;
+    }
+
+    .uproduk {
+        margin-left: -274px;
+    }
+
+    .dproduke h6{
+        width: 80%;
+        margin-left: 41px;
+        line-height: 27px;
+        font-weight: bold;
+
+    }
+    .dproduk {
+        width: 270px;
+        height: 785px;
+        border: solid;
+        border-color: black;
+        margin-left: -52px;
+        border-color: rgb(208, 208, 208);
+        border-width: 2px;
+        border-radius: 10px;
+        margin-bottom: 40px;
+        margin-top: 20px;
+    }
+
+    .dproduk .col-1 img {
+        width: 100px;
+        height: 100px;
+        margin-left: 70px;
+        margin-top: 30px;
+    }
+
+    .dproduk .atas {
+        margin-top: 30px;
+        margin-left: 20px;
+    }
+
+
+    .dproduk h6 {
+        font-size: 13px;
+        width: 50px;
+    }
+
+    .dproduk .col-2 {
+        margin-left: 20px;
+        width: 190px;
+
+    }
+
+    .dproduk .col-8 {
+        margin-left: 130px;
+        margin-top: -33px;
+    }
+
+    .dproduk .tengah {
+        width: 200px;
+        margin-left: 30px;
+    }
+
+    .dproduk h3 {
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .dproduk .bawah {
+        margin-left: 20px;
+    }
+
+    .dproduk .bawah h6 {
+        font-size: 13px;
+        width: 80px;
+        color: aqua;
+    }
+
+    .dproduk .bawah h5 {
+        font-size: 13px;
+        width: 80px;
+        margin-left: 50px;
+        color: rgb(255, 153, 0);
+    }
+
+    .dproduk .bawah .col-4 {
+        margin-left: -171px;
+        margin-top: 27px;
+    }
+
+    .dproduk .bawah .col-4 i {
+        margin-left: 0px;
+        color: #eeca00;
+        width: 10px;
+    }
+
+    .dproduk .col-10 i {
+        color: #007bff;
+    }
+
+    .deskripsi {
+        margin-left: 20px;
+        margin-top: 20px;
+        height: 280px;
+        overflow: auto;
+    }
+
+    .deskripsi h3 {
+        font-size: 13px;
+        font-weight: bold;
+    }
+
+    .deskripsi p {
+        font-size: 13px;
+        overflow: auto;
+
+    }
+
+    .tombol {
+        margin-top: 0px;
+        margin-left: 10px;
+        margin-bottom: 20px;
+    }
+
+    .tombol .btn {
+        width: 90%;
+        color: white;
+        background-image: linear-gradient(to right, #007bff, rgb(255, 255, 255));
+    }
+
+    .tombolu {
+        margin-left: 10px;
+    }
+
+
+    .tombolu .btn {
+        width: 231px;
+        margin-left: -2px;
+        font-size: 12px;
+    }
+
+    .tombol2 {
+        margin-left: 10px;
+    }
+
+    .tombol2 .btn {
+        width: 90%;
+    }
+
+    .samping {
+        margin-top: -171px;
+        margin-left: 20px;
+
+    }
+
+    .sampingu {
+        margin-top: 20px;
+        margin-left: 17px;
+    }
+
+    .sampingu h3 {
+        font-size: 13px;
+        font-weight: bold;
+        justify-content: center;
+        margin-left: 78px;
+    }
+
+    .sampingu h3 span {
+        color: #007bff;
+        margin-left: -33px;
+    }
+
+    .samping h3 {
+        font-size: 13px;
+        font-weight: bold;
+    }
+
+    .samping h3 span {
+        color: #007bff;
+    }
+
+    hr {
+        margin-top: 50px;
+    }
+
+    /* editprofilmobile*/
+    .koledit {
+        margin-top: 69px;
+        margin-left: -229px;
+        border: solid;
+        border-color: rgb(208, 208, 208);
+        border-radius: 10px;
+        border-width: 2px;
+    }
+
+    .koledit form {
+        margin-left: 26px;
+        margin-top: 27px;
+        margin-bottom: 24px;
+    }
+
+    /* akhir edit profilmobile */
+
+
+    /* awal pencairan mobile */
+    .pencairan {
+        margin-left: 0px;
+    }
+
+    .ajukan {
+        margin-left: -29px;
+    }
+
+    .ajukan .produkt h3 {
+        font-weight: bold;
+        color: #464646;
+        font-size: 64px;
+        margin-left: 93px;
+    }
+
+    .ajukan .produkt h5 {
+        font-size: 24px;
+        color: #888888;
+        font-weight: bold;
+        margin-left: 83px;
+        margin-top: -19px;
+    }
+
+
+    .ajukan .produkt i {
+        rotate: -45deg;
+        color: #5DC288;
+        margin-left: 78px;
+    }
+
+    .ajukan .produkt h6 {
+        color: rgb(208, 208, 208);
+        font-size: 14px;
+        margin-left: 0px;
+    }
+
+
+    .ajukan .produkt h6 span {
+        color: #5DC288;
+        font-weight: bold;
+        margin-right: 20px;
+    }
+
+    .ajukan .col-2 img {
+        margin-left: 92px;
+    }
+
+    .ajukan .col-3 .btn {
+        width: 205%;
+        margin-left: 99px;
+        margin-top: 25px;
+    }
+
+
+
+    .bajukan .btn {
+        border-color: rgb(208, 208, 208);
+        margin-left: 58px;
+        border-radius: 5px;
+        color: rgb(148, 147, 147);
+        font-size: 15px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+
+    }
+
+
+    .bajukan input {
+        border: 1px solid #c4c4c4;
+        border-radius: 5px;
+        background-color: #fff;
+        padding: 3px 5px;
+        box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.1);
+        width: 190px;
+        margin-left: 44px;
+        margin-bottom: 36px;
+        height: 38px;
+    }
+
+    .dpencairan {
+        width: 270px;
+        height: 619px;
+        border: solid;
+        border-color: black;
+        margin-left: 28px;
+        border-color: rgb(208, 208, 208);
+        border-width: 2px;
+        border-radius: 10px;
+        margin-bottom: 40px;
+        margin-top: 20px;
+    }
+
+    .dpencairan .col-1 i {
+        color: #007bff;
+    }
+
+    .dpencairan .col-1 img {
+        margin-left: 18px;
+        margin-top: -418px;
+        margin-bottom: 64px;
+        width: 200px;
+        height: 200px;
+
+    }
+
+    .dpencairan .atas {
+        margin-top: 249px;
+        margin-left: 20px;
+    }
+
+
+    .dpencairan h6 {
+        font-size: 13px;
+        width: 62px;
+    }
+
+    .dpencairan .col-2 {
+        margin-left: 12px;
+        width: 190px;
+        margin-right: 50px;
+
+    }
+
+    .dpencairan .atas .col-1 {
+        margin-left: 34px;
+        width: 190px;
+        margin-right: 29px;
+        margin-top: -5px;
+    }
+
+    .dpencairan .atas .col-2 {
+        margin-left: -25px;
+        width: 190px;
+        margin-right: 39px;
+    }
+
+    .dpencairan .atas .col-3 {
+        margin-left: 30px;
+        margin-right: 198px;
+    }
+
+    .dpencairan .atas .col-3 h6 {
+        width: 164px;
+        margin-left: 9px;
+        margin-top: 5px;
+    
+    }
+
+
+    .dpencairan .col-8 {
+        margin-left: 130px;
+        margin-top: -33px;
+    }
+
+    .dpencairan .tengah {
+        width: 200px;
+        margin-left: 30px;
+    }
+
+    .dpencairan h3 {
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .dpencairan .bawah {
+        margin-left: 20px;
+    }
+
+    .dpencairan .bawah h6 {
+        font-size: 13px;
+        width: 80px;
+        color: black;
+    }
+
+    .dpencairan .bawah h5 {
+        font-size: 13px;
+        width: 80px;
+        margin-left: 50px;
+        color: rgb(255, 153, 0);
+    }
+
+    .dpencairan .bawah .col-4 {
+        margin-left: -171px;
+        margin-top: 27px;
+    }
+
+    .dpencairan .bawah .col-4 i {
+        margin-left: 0px;
+        color: #eeca00;
+        width: 10px;
+    }
+
+    .dpencairan .col-10 i {
+        color: aqua;
+    }
+
+    .dpencairan .col-3 h6 span {
+        color: #5DC288;
+        border: solid;
+        border-color: #5DC288;
+        border-width: 1px;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 2px;
+        padding-bottom: 2px;
+        border-radius: 20px;
+        background-color: #cbf5dc;
+    }
+
+    .dpencairan .isi .col-3 .bawah h6 {
+        margin-left: 12px;
+    }
+
+    .dpencairan .isi .col-5 .bawah h6 {
+        margin-left: 12px;
+    }
+
+    .dpencairan .bawah {
+        width: 106px;
+    }
+
+    .bajukan .dropdown {
+        float: left;
+        margin-left: -28px;
+    }
+
+    /* akhir pencairan mobile */
+}
+
+/* akhir mobile vers */
+
+/* dekstop vers */
+@media (min-width: 992px) {
+
+    .bajukan .col-md-5 {
+        margin-top: 5px;
+        width: 100%;
+        margin-left: -31px;
+    }
+
+
+    .col-md-9 .natas {
+        margin-left: 1px;
+    }
+
+    .natas .form-inline {
+        margin-left: 279px;
+        width: 60%;
+    }
+
+    .natas .form-inline .form-control {
+        width: 68%;
+    }
+
+    .natas .form-inline .btn {
+        width: 20%;
+        margin-left: -76px;
+        border: transparent;
+    }
+
+    .col-md-9 .cola .nav-pills .nav-item {
+        margin-left: 23px;
+        margin-right: -20px;
+    }
+
+    .card .card-body h3 {
+        margin-top: -25px;
+        color: #eeca00;
+        font-weight: bold;
+        margin-bottom: 22px;
+    }
+
+    .card .card-body i {
+        color: #eeca00;
+        margin-top: 32px;
+        margin-left: 0px;
+    }
+
+    .card-body .btn {
+        background-color: transparent;
+        border: solid;
+        border-color: #007bff;
+        color: #007bff;
+        border-width: 1px;
+        border-radius: 5px;
+    }
+   
+    .card-body .list-group-item a:active {
+        color: blue;
+    }
+
+    .card-body .list-group-item a .row {
+        margin-left: 16px;
+        margin-top: -28px;
+        margin-bottom: 5px;
+
+    }
+
+    .card-body .list-group-item a .row h6 {
+        margin-top: 38px;
+        margin-left: 5px;
+    }
+
+    .card-body .list-group-item a .row h6 span {
+        font-weight: bold;
+        font-size: 17px;
+    }
+
+    .card-body .list-group-item a .row i {
+        margin-left: 2px;
+        color: #eeca00;
+    }
+
+    .card .card-body .list-group-item h6 {
+        margin-left: 20px;
+        margin-top: -20px;
+        font-size: 12px;
+
+        color: rgb(174, 174, 174);
+
+    }
+
+    .card .card-body .list-group-item h3 {
+        margin-top: -10px;
+        margin-left: 20px;
+        color: black;
+        font-size: 16px;
+    }
+
+    .card-body .list-group-item i {
+        color: #007bff;
+        margin-left: -7px;
+    }
+
+    .dpencairan {
+        margin-left: 27px;
+        margin-top: 20px;
+        border-style: solid;
+        border-color: rgb(208, 208, 208);
+        border-width: 2px;
+        border-radius: 10px;
+        height: 207px;
+    }
+
+    .pencairan {
+        margin-left: -835px;
+    }
+
+    .ajukan {
+        margin-left: 24px;
+        margin-top: 20px;
+    }
+
+    .ajukan .produkt h3 {
+        font-weight: bold;
+        color: #464646;
+        font-size: 40px;
+    }
+
+    .ajukan .produkt h5 {
+        font-size: 15px;
+        color: #888888;
+        font-weight: bold;
+    }
+
+    .ajukan .produkt i {
+        rotate: -45deg;
+        color: #5DC288;
+    }
+
+    .ajukan .produkt h6 {
+        color: rgb(208, 208, 208);
+        font-size: 14px;
+    }
+
+
+    .ajukan .produkt h6 span {
+        color: #5DC288;
+        font-weight: bold;
+        margin-right: 20px;
+    }
+
+    .ajukan .col-2 {
+        margin-left: 166px;
+        margin-top: -99px;
+        margin-bottom: 75px;
+        width: 200%;
+    }
+
+    .ajukan .col-3 {
+        margin-left: 537px;
+        margin-top: -122px;
+        margin-bottom: 101px;
+    }
+
+    .ajukan .col-3 .btn {
+        width: 136%;
+    }
+
+    .ajukan .col-2 img {
+        width: 53%;
+
+    }
+
+    .bajukan {
+        margin-left: -33px;
+    }
+
+    .bajukan .dropdown {
+        width: 100%;
+    }
+
+    .bajukan .dropdown .btn {
+        width: 80%;
+        margin-left: 47px;
+    }
+
+    .bajukan .btn {
+        border-color: rgb(208, 208, 208);
+        margin-left: 19px;
+        border-radius: 5px;
+        color: rgb(148, 147, 147);
+        font-size: 15px;
+        width: 40%;
+    }
+
+    /* date */
+    [type="date"] {
+        background: #fff url(https://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/calendar_2.png) 97% 50% no-repeat;
+    }
+
+    [type="date"]::-webkit-inner-spin-button {
+        display: none;
+    }
+
+    [type="date"]::-webkit-calendar-picker-indicator {
+        opacity: 0;
+    }
+
+    /* custom styles */
+
+
+
+    .bajukan .kalender {
+        margin-top: 0px;
+    }
+
+    .bajukan input {
+        border: 1px solid #c4c4c4;
+        border-radius: 5px;
+        background-color: #fff;
+        padding: 3px 5px;
+        box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.1);
+        width: 190px;
+        margin-left: 0px;
+        height: 38px;
+    }
+
+    /* akhir date */
+
+    .dpencairan .col-1 img {
+        width: 80px;
+        height: 80px;
+        margin-left: 15px;
+        margin-top: 10px;
+    }
+
+    .dpencairan .col-1 i {
+        color: #007bff;
+    }
+
+    .dpencairan .col-10 {
+        margin-top: -76px;
+        margin-left: 124px;
+    }
+
+    .dpencairan .atas {
+        margin-top: 26px;
+        margin-left: 42px;
+    }
+
+
+
+    .dpencairan .col-10 i {
+        width: 10px;
+        height: 10px;
+        color: aqua;
+    }
+
+    .dpencairan .col-4 {
+        margin-left: 137px;
+    }
+
+
+    .dpencairan .isi {
+        margin-top: -78px;
+    }
+
+    .dpencairan .isi .col-5 {
+        margin-left: 582px;
+        margin-top: -54px;
+    }
+
+    .dpencairan .isi .col-5 h6 {
+        margin-left: 25px;
+    }
+
+
+    .dpencairan .isi .col-3 {
+        margin-left: 447px;
+        margin-top: -53px;
+    }
+
+    .dpencairan .isi .col-3 h6 {
+        margin-left: 15px;
+    }
+
+    .dpencairan .col-4 h6 {
+        width: 300px;
+        margin-right: 300px;
+    }
+
+    .dpencairan .col-4 .col-5 {
+        margin-left: -200px;
+    }
+
+    .dpencairan .col-2 {
+        margin-left: -34px;
+        margin-right: -34px;
+        width: 20px;
+    }
+
+
+    .dpencairan .col-3 {
+        margin-left: -22px;
+        margin-right: 15px;
+    }
+
+    .dpencairan .col-3 h6 span {
+        color: #5DC288;
+        border: solid;
+        border-color: #5DC288;
+        border-width: 1px;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 2px;
+        padding-bottom: 2px;
+        border-radius: 20px;
+        background-color: #cbf5dc;
+    }
+
+    .dpencairan .tengah {
+        margin-left: 0px;
+    }
+
+    .dpencairan h3 {
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+    .dpencairan .bawah {
+
+        margin-left: -17px;
+    }
+
+    .dpencairan .bawah .col-5 {
+        width: 20px;
+        margin-right: 2px;
+        margin-left: 2px;
+        margin-top: -4px;
+    }
+
+    .dpencairan .bawah .col-5 h6 {
+        margin-left: 0px;
+    }
+
+    .dpencairan .bawah .col-4 {
+        margin-left: -158px;
+        margin-top: -4px;
+    }
+
+    .dpencairan .bawah .col-4 i {
+        margin-left: 8px;
+        color: #eeca00;
+    }
+
+    .dpencairan .bawah .col-5 h5 {
+        font-size: 15px;
+        margin-left: -80px;
+        color: rgb(255, 153, 0);
+    }
+
+    .dpencairan .bawah .col-5 h6 {
+        font-size: 15px;
+        color: black;
+    }
+
+    .dpencairan .deskripsi {
+        margin-left: -130px;
+        margin-top: 10px;
+        height: 150px;
+    }
+    .notifu .dropdown .dropdown-content .ntfblm{
+        height: 256px;
+        padding-top: 34px;
+        padding-left: 34px;
+    }   
+    
+    .notifu .dropdown .dropdown-content .ntfblm img{
+        width: 100px;
+        height: 100px;
+        margin-left: 49px;
+        
+
+    }
+
+    .notifu .dropdown .dropdown-content .ntfblm p{
+        font-weight: bold;
+        color: #363636;
+        font-size: 17px;
+        margin-left: 0px;
+    }
+
+    .dprodukatas .d.navbar .col-md-1 .dropdown-content li {
+        margin-left: 684px;
+        margin-top: -39px;
+    }
+    .dproduke{
+        display: flex;
+    }
+    .dproduke img{
+        margin-left: 64px;
+    }
+    .dproduke h6{
+        line-height: 29px;
+font-weight: bold;
+    }
+
+    .dproduk {
+        margin-left: 9px;
+        margin-top: 20px;
+        border-style: solid;
+        border-color: rgb(208, 208, 208);
+        border-width: 2px;
+        border-radius: 10px;
+        height: 300px;
+    }
+
+    .dproduk .col-1 img {
+        width: 80px;
+        height: 80px;
+        margin-left: 15px;
+        margin-top: 30px;
+
+    }
+
+    .dproduk .col-10 {
+        margin-top: -40px;
+        margin-left: 150px;
+    }
+
+    .dproduk .atas {
+        margin-top: -80px;
+        margin-left: -30px;
+    }
+
+
+
+    .dproduk .col-10 i {
+        width: 10px;
+        height: 10px;
+        color: #007bff;
+    }
+
+    .dproduk .col-10 h6 {
+        width: 300px;
+        margin-right: 300px;
+    }
+
+    .dproduk .col-2 {
+        margin-left: -20px;
+        width: 20px;
+    }
+
+    .dproduk .tengah {
+        margin-left: -22px;
+    }
+
+    .dproduk h3 {
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .dproduk .bawah {
+
+        margin-left: -30px;
+    }
+
+    .dproduk .bawah .col-5 {
+        width: 20px;
+        margin-right: -100px;
+    }
+
+    .dproduk .bawah .col-4 {
+        margin-left: -158px;
+        margin-top: -4px;
+    }
+
+    .dproduk .bawah .col-4 i {
+        margin-left: 8px;
+        color: #eeca00;
+    }
+
+    .dproduk .bawah .col-5 h5 {
+        font-size: 15px;
+        margin-left: -80px;
+        color: rgb(255, 153, 0);
+    }
+
+    .dproduk .bawah .col-5 h6 {
+        font-size: 15px;
+        color: #61d991;
+    }
+
+    .dproduk .deskripsi {
+        margin-left: -130px;
+        margin-top: 10px;
+        height: 150px;
+    }
+
+    .deskripsi h3 {
+        font-size: 15px;
+        font-weight: bold;
+    }
+
+    .deskripsi p {
+        width: 60%;
+        font-size: 15px;
+        color: darkgray;
+    }
+
+    .dproduk hr {
+        height: 200px;
+        width: 2px;
+        background-color: rgb(197, 197, 197);
+        margin-left: 550px;
+        margin-top: -220px;
+    }
+
+    .dproduk .tombol {
+        margin-left: 600px;
+        margin-right: -600px;
+        margin-top: -200px;
+
+    }
+
+    .tombol button {
+        width: 20%;
+        margin-left: 0px;
+        border-radius: 10px;
+        color: white;
+        background-image: linear-gradient(to right, #007bff, rgb(255, 255, 255));
+    }
+
+    .dproduk .tombol2 {
+        margin-left: 600px;
+        margin-right: -600px;
+        margin-top: 20px;
+
+    }
+
+    .tombol2 button {
+        width: 20%;
+    }
+
+    .tombolu {
+        margin-left: 622px;
+        margin-top: -209px;
+    }
+
+    .tombolu .btn {
+        width: 119px;
+        font-size: 12px;
+    }
+
+    .samping h3 {
+        margin-left: 672px;
+        margin-top: 34px;
+        margin-bottom: -26px;
+        text-align: center;
+        font-size: 15px;
+        font-weight: bold;
+    }
+
+    .sampingu h3 {
+        margin-left: 645px;
+        margin-top: 34px;
+        margin-bottom: -26px;
+        text-align: center;
+        font-size: 15px;
+        font-weight: bold;
+    }
+
+    .sampingu h3 span {
+        color: #007bff;
+        margin-left: -44px;
+    }
+
+    .samping h3 span {
+        color: #007bff;
+        margin-left: -44px;
+    }
+
+    /* editprofil */
+    .koledit {
+        margin-left: -553px;
+        margin-top: 26px;
+        width: 300%;
+        border: solid;
+        border-width: 2px;
+        border-color: rgb(197, 197, 197);
+        border-radius: 10px;
+    }
+
+    .koledit form {
+        width: 90%;
+        margin-left: 27px;
+        margin-top: 21px;
+        margin-bottom: 34px;
+    }
+
+    .koledit .btn {
+        margin-left: 539px;
+        margin-right: 5px;
+        margin-top: 27px;
+    }
+
+    .koledit .btn-primary {
+        margin-left: 2px;
+    }
+
+    /* akhir edit profil*/
+    
+
+}
+
+/* akhir dekstop vers */
+
+
+/* Bagian Boing */
+.kembali .btn-dark {
+    width: 200px;
+    color: cornflowerblue;
+    background-color: white;
+    border: 0px;
+    margin-top: 50px;
+}
+
+.gambar5 img {
+    width: 40px;
+    margin-top: -60px;
+    margin-left: 10px;
+}
+
+.kotak5 .card {
+    height: 500px;
+    width: 300px;
+    margin-left: 800px;
+    background-color: cornflowerblue;
+}
+
+.skull1 img {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.umkm1 h1 {
+    font-size: 20px;
+    margin-left: 68px;
+    margin-top: -35px;
+    font-weight: 700;
+    color: white;
+}
+
+.benefit h1 {
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+    color: white;
+}
+
+.centang img {
+    margin-left: 15px;
+}
+
+.satu h1 {
+    font-size: 15px;
+    color: white;
+    margin-left: 50px;
+    margin-top: -31px;
+}
+
+.centang2 img {
+    margin-left: 15px;
+}
+
+.dua h1 {
+    font-size: 15px;
+    color: white;
+    margin-left: 50px;
+    margin-top: -31px;
+}
+
+.centang3 img {
+    margin-left: 15px;
+}
+
+.tiga h1 {
+    font-size: 15px;
+    color: white;
+    margin-left: 50px;
+    margin-top: -31px;
+}
+
+.centang4 img {
+    margin-left: 15px;
+}
+
+.empat h1 {
+    font-size: 15px;
+    color: white;
+    margin-left: 50px;
+    margin-top: -31px;
+}
+
+.centang5 img {
+    margin-left: 15px;
+}
+
+.lima h1 {
+    font-size: 15px;
+    color: white;
+    margin-left: 50px;
+    margin-top: -31px;
+}
+
+.harga h2 {
+    margin-left: 70px;
+    margin-top: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+.sekarang .btn-dark {
+    background-color: white;
+    color: cornflowerblue;
+    margin-left: 50px;
+    margin-top: 30px;
+    border: 0px;
+    font-weight: bold;
+}
+
+.ketikan h3 {
+    margin-top: -420px;
+    margin-left: 225px;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.ketikan2 h3 {
+    margin-left: 280px;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.ketikan3 h3 {
+    margin-left: 320px;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.gambar6 img {
+    margin-left: 160px;
+}
+
+
+.navbar .col-md-1 .notifu .dropdown-content li{
+    margin-left: -49px;
+}
+.navbar .col-md-1 .notifu .dropdown-content p{
+    text-align: left;
+}
+.navbar .col-md-1 .notifu .dropdown-content a:hover{
+    background-color: #d8d8d8;
+    width: 100%;
+    color: black;
+}
+.navbar .col-md-1 .notifu .dropdown-content .toba a:hover{
+    background-color: #007bff;
+    width: 143%;
+    color: white;
+
+}
+.navbar .input-group-append{
+    margin-left: -42px;
+}
+/* android */
+@media (max-width: 575.98px) {
+    .kembali .btn-dark {
+        width: 200px;
+        color: cornflowerblue;
+        background-color: white;
+        border: 0px;
+        margin-top: 50px;
+    }
+
+    .gambar5 img {
+        width: 40px;
+        margin-top: -60px;
+        margin-left: 10px;
+    }
+
+    .kotak5 .card {
+        height: 500px;
+        width: 300px;
+        margin-left: 400px;
+        background-color: cornflowerblue;
+    }
+
+    .skull1 img {
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+
+    .umkm1 h1 {
+        font-size: 20px;
+        margin-left: 68px;
+        margin-top: -35px;
+        font-weight: 700;
+        color: white;
+    }
+
+    .benefit h1 {
+        font-size: 15px;
+        margin-left: 20px;
+        margin-top: 10px;
+        color: white;
+    }
+
+    .centang img {
+        margin-left: 15px;
+    }
+
+    .satu h1 {
+        font-size: 15px;
+        color: white;
+        margin-left: 50px;
+        margin-top: -31px;
+    }
+
+    .centang2 img {
+        margin-left: 15px;
+    }
+
+    .dua h1 {
+        font-size: 15px;
+        color: white;
+        margin-left: 50px;
+        margin-top: -31px;
+    }
+
+    .centang3 img {
+        margin-left: 15px;
+    }
+
+    .tiga h1 {
+        font-size: 15px;
+        color: white;
+        margin-left: 50px;
+        margin-top: -31px;
+    }
+
+    .centang4 img {
+        margin-left: 15px;
+    }
+
+    .empat h1 {
+        font-size: 15px;
+        color: white;
+        margin-left: 50px;
+        margin-top: -31px;
+    }
+
+    .centang5 img {
+        margin-left: 15px;
+    }
+
+    .lima h1 {
+        font-size: 15px;
+        color: white;
+        margin-left: 50px;
+        margin-top: -31px;
+    }
+
+    .harga h2 {
+        margin-left: 70px;
+        margin-top: 30px;
+        color: white;
+        font-weight: bold;
+    }
+
+    .sekarang .btn-dark {
+        background-color: white;
+        color: cornflowerblue;
+        margin-left: 50px;
+        margin-top: 30px;
+        border: 0px;
+        font-weight: bold;
+    }
+
+    .ketikan h3 {
+        margin-top: -500px;
+        margin-left: 12px;
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+    .ketikan2 h3 {
+        margin-left: 55px;
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+    .ketikan3 h3 {
+        margin-left: 85px;
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+    .gambar6 img {
+        margin-left: -20px;
+        width: 330px;
+    }
+}
+
+.masukan h1 {
+    font-size: 25px;
+    margin-top: 100px;
+    font-weight: 700;
+}
+
+.masukan2 h1 {
+    font-size: 25px;
+    font-weight: 700;
+    margin-left: 28px;
+}
+
+.masukan3 h1 {
+    font-size: 18px;
+    margin-left: 63px;
+    margin-top: 30px;
+    color: darkgray;
+}
+
+.ayoverifikasi img {
+    margin-left: -200px;
+}
+
+.syarat .card {
+    width: 610px;
+    height: 620px;
+    margin-left: 500px;
+    margin-top: -580px;
+}
+
+.syarat2 h2 {
+    font-size: 18px;
+    margin-left: 30px;
+    margin-top: 25px;
+}
+
+.syarat3 h2 {
+    font-size: 17px;
+    font-weight: 700;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+.dokumen {
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+.syarat4 h2 {
+    font-size: 17px;
+    font-weight: 700;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+.dokumen2 {
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+.syarat5 h2 {
+    font-size: 17px;
+    font-weight: 700;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+.dokumen3 {
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+.syarat6 h2 {
+    font-size: 17px;
+    font-weight: 700;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+.dokumen4 {
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+.syarat7 h2 {
+    font-size: 17px;
+    font-weight: 700;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+.nib .form-control {
+    width: 500px;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+.kirimdata2 .btn-dark {
+    width: 500px;
+    margin-left: 80px;
+    margin-top: 10px;
+    background-color: gainsboro;
+    font-weight: 600;
+    border: 0px;
+}
+.nav-pills .nav-link:hover{
+    background-color: transparent;
+    border-bottom: #007bff solid;
+    color: #6c757d;
+    border-radius: 0px;
+}
+
+
+.nav-pills .nav-link.active{
+    background-color: transparent;
+    border-bottom: #007bff solid;
+    color: #6c757d;
+    border-radius: 0px;
+}
+
+
+
+/* Android */
+@media (max-width: 575.98px) {
+    .col-12 .card-body img{
+        width: 80%;
+    }
+    .navbar .col-md-1 .notifu .dropdown-content{
+        display: none;
+    }
+    .masukan h1 {
+        font-size: 18px;
+        margin-top: 100px;
+        font-weight: 700;
+    }
+
+    .masukan2 h1 {
+        font-size: 18px;
+        font-weight: 700;
+        margin-left: 20px;
+    }
+
+    .masukan3 h1 {
+        font-size: 15px;
+        margin-left: 39px;
+        margin-top: 28px;
+        color: darkgray;
+    }
+
+    .ayoverifikasi img {
+        margin-left: -90px;
+        width: 400px;
+    }
+
+    .syarat .card {
+        width: 280px;
+        height: 620px;
+        margin-left: 1px;
+        margin-top: 50px;
+    }
+
+    .syarat2 h2 {
+        font-size: 15px;
+        margin-left: 30px;
+        margin-top: 25px;
+    }
+
+    .syarat3 h2 {
+        font-size: 17px;
+        font-weight: 700;
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+
+    .dokumen {
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+
+    .syarat4 h2 {
+        font-size: 17px;
+        font-weight: 700;
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+
+    .dokumen2 {
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+
+    .syarat5 h2 {
+        font-size: 17px;
+        font-weight: 700;
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+
+    .dokumen3 {
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+
+    .syarat6 h2 {
+        font-size: 17px;
+        font-weight: 700;
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+
+    .dokumen4 {
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+
+    .syarat7 h2 {
+        font-size: 17px;
+        font-weight: 700;
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+
+    .nib .form-control {
+        width: 220px;
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+
+    .kirimdata2 .btn-dark {
+        width: 220px;
+        margin-left: 30px;
+        margin-top: 10px;
+        background-color: gainsboro;
+        font-weight: 600;
+        border: 0px;
+    }
+}
+
+.rumus1 h1 {
+    margin-left: 380px;
+    font-size: 150%;
+    margin-top: 70px;
+    font-weight: bold;
+}
+
+.waktu {
+    margin-left: 510px;
+    color: orange;
+    margin-top: 10px;
+    font-weight: 700;
+    font-size: larger;
+}
+
+.rumus2 h2 {
+    font-size: 100%;
+    margin-left: 465px;
+    margin-top: 10px;
+    font-weight: lighter;
+}
+
+.rumus3 h3 {
+    font-size: 150%;
+    font-weight: 600;
+    margin-left: 425px;
+}
+
+.rumus4 h4 {
+    font-size: 100%;
+    margin-left: 510px;
+    margin-top: 50px;
+    font-weight: lighter;
+}
+
+.rumus5 h5 {
+    font-size: xx-large;
+    font-weight: bold;
+    color: dodgerblue;
+    margin-left: 460px;
+}
+
+.kotak1 .card {
+    width: 600px;
+    height: 380px;
+    margin-top: 70px;
+    margin-left: 230px;
+}
+
+@media (max-width: 575.98px) {
+    .rumus1 h1 {
+        margin-left: 20px;
+        font-size: 110%;
+        margin-top: 70px;
+        font-weight: bold;
+    }
+
+    .waktu {
+        margin-left: 110px;
+        color: orange;
+        margin-top: 10px;
+        font-weight: 700;
+        font-size: larger;
+    }
+
+    .rumus2 h2 {
+        font-size: 100%;
+        margin-left: 65px;
+        margin-top: 10px;
+        font-weight: lighter;
+    }
+
+    .rumus3 h3 {
+        font-size: 150%;
+        font-weight: 600;
+        margin-left: 30px;
+    }
+
+    .rumus4 h4 {
+        font-size: 100%;
+        margin-left: 110px;
+        margin-top: 50px;
+        font-weight: lighter;
+    }
+
+    .rumus5 h5 {
+        font-size: xx-large;
+        font-weight: bold;
+        color: dodgerblue;
+        margin-left: 60px;
+    }
+
+    .kotak1 .card {
+        width: 600px;
+        height: 380px;
+        margin-top: 70px;
+        margin-left: -99px;
+    }
+}
+
+.kembali .btn-dark {
+    width: 200px;
+    color: cornflowerblue;
+    background-color: white;
+    border: 0px;
+    margin-top: 50px;
+}
+
+.gambar5 img {
+    width: 40px;
+    margin-top: -60px;
+    margin-left: 10px;
+}
+
+.ketikan h1 {
+    margin-top: 100px;
+    margin-left: 218px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.ketikan2 h1 {
+    margin-left: 280px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.ketikan3 h1 {
+    margin-left: 320px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.gambar6 img {
+    width: 400px;
+    margin-left: 185px;
+}
+
+.kotak5 .card {
+    height: 500px;
+    width: 300px;
+    margin-left: 700px;
+    background-color: cornflowerblue;
+    margin-top: -460px;
+}
+
+.skull1 img {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.umkm1 h2 {
+    font-size: 20px;
+    margin-left: 68px;
+    margin-top: -35px;
+    font-weight: 700;
+    color: white;
+}
+
+.benefit h2 {
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+    color: white;
+}
+
+.centang img {
+    margin-left: 15px;
+}
+
+.satu h2 {
+    font-size: 15px;
+    color: white;
+    margin-left: 50px;
+    margin-top: -31px;
+}
+
+.centang2 img {
+    margin-left: 15px;
+}
+
+.dua h2 {
+    font-size: 15px;
+    color: white;
+    margin-left: 50px;
+    margin-top: -31px;
+}
+
+.centang3 img {
+    margin-left: 15px;
+}
+
+.tiga h2 {
+    font-size: 15px;
+    color: white;
+    margin-left: 50px;
+    margin-top: -31px;
+}
+
+.centang4 img {
+    margin-left: 15px;
+}
+
+.empat h2 {
+    font-size: 15px;
+    color: white;
+    margin-left: 50px;
+    margin-top: -31px;
+}
+
+.centang5 img {
+    margin-left: 15px;
+}
+
+.lima h2 {
+    font-size: 15px;
+    color: white;
+    margin-left: 50px;
+    margin-top: -31px;
+}
+
+.harga h3 {
+    margin-left: 70px;
+    margin-top: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+.sekarang .btn-dark {
+    background-color: white;
+    color: cornflowerblue;
+    margin-left: 50px;
+    margin-top: 30px;
+    border: 0px;
+    font-weight: bold;
+}
+
+/* Android */
+@media (max-width: 575.98px) {
+    .kembali .btn-dark {
+        width: 200px;
+        color: cornflowerblue;
+        background-color: white;
+        border: 0px;
+        margin-top: 50px;
+    }
+
+    .gambar5 img {
+        width: 40px;
+        margin-top: -60px;
+        margin-left: 10px;
+    }
+
+    .ketikan h1 {
+        margin-top: 100px;
+        margin-left: 13px;
+        font-size: 18px;
+        font-weight: bold;
+    }
+
+    .ketikan2 h1 {
+        margin-left: 60px;
+        font-size: 18px;
+        font-weight: bold;
+    }
+
+    .ketikan3 h1 {
+        margin-left: 90px;
+        font-size: 18px;
+        font-weight: bold;
+    }
+
+    .gambar6 img {
+        width: 280px;
+        margin-left: 1px;
+    }
+
+    .kotak5 .card {
+        height: 500px;
+        width: 300px;
+        margin-left: -6px;
+        background-color: cornflowerblue;
+        margin-top: 50px;
+    }
+
+    .skull1 img {
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+
+    .umkm1 h2 {
+        font-size: 20px;
+        margin-left: 68px;
+        margin-top: -35px;
+        font-weight: 700;
+        color: white;
+    }
+
+    .benefit h2 {
+        font-size: 15px;
+        margin-left: 20px;
+        margin-top: 10px;
+        color: white;
+    }
+
+    .centang img {
+        margin-left: 15px;
+    }
+
+    .satu h2 {
+        font-size: 15px;
+        color: white;
+        margin-left: 50px;
+        margin-top: -31px;
+    }
+
+    .centang2 img {
+        margin-left: 15px;
+    }
+
+    .dua h2 {
+        font-size: 15px;
+        color: white;
+        margin-left: 50px;
+        margin-top: -31px;
+    }
+
+    .centang3 img {
+        margin-left: 15px;
+    }
+
+    .tiga h2 {
+        font-size: 15px;
+        color: white;
+        margin-left: 50px;
+        margin-top: -31px;
+    }
+
+    .centang4 img {
+        margin-left: 15px;
+    }
+
+    .empat h2 {
+        font-size: 15px;
+        color: white;
+        margin-left: 50px;
+        margin-top: -31px;
+    }
+
+    .centang5 img {
+        margin-left: 15px;
+    }
+
+    .lima h2 {
+        font-size: 15px;
+        color: white;
+        margin-left: 50px;
+        margin-top: -31px;
+    }
+
+    .harga h3 {
+        margin-left: 70px;
+        margin-top: 30px;
+        color: white;
+        font-weight: bold;
+    }
+
+    .sekarang .btn-dark {
+        background-color: white;
+        color: cornflowerblue;
+        margin-left: 50px;
+        margin-top: 30px;
+        border: 0px;
+        font-weight: bold;
+    }
+
+    .masukkandata h5 {
+        font-weight: 700;
+        font-size: 25px;
+    }
+
+    .masukkan2 h5 {
+        font-weight: 700;
+        margin-left: 114px;
+        font-size: 25px;
+    }
+
+    .valid h5 {
+        font-size: 18px;
+        font-weight: 700;
+        margin-left: 140px;
+        margin-top: 30px;
+        color: darkgray;
+    }
+
+    .halouser h5 {
+        font-weight: 560;
+    }
+
+    .image6 img {
+        width: 200px;
+    }
+
+    /* akhir umum deks */
+}
+
+/* akhir dekstop vers */
+.kotak2 img {
+    width: 300px;
+    margin-left: 450px;
+    margin-top: 40px;
+}
+
+.rumus6 h1 {
+    font-size: 20px;
+    margin-left: 365px;
+    width: 500px;
+    margin-top: 30px;
+    font-weight: 600;
+}
+
+.rumus7 h2 {
+    font-size: 20px;
+    margin-left: 330px;
+    font-weight: 600;
+}
+
+.tekan1 .btn-dark {
+    margin-left: 460px;
+    background-color: dodgerblue;
+    border: 0px;
+    margin-top: 30px;
+    width: 280px;
+    font-weight: 600;
+    height: 45px;
+}
+
+@media (max-width: 575.98px) {
+    .kotak2 img {
+        width: 200px;
+        margin-left: 50px;
+        margin-top: 40px;
+    }
+
+    .rumus6 h1 {
+        font-size: 12px;
+        margin-left: 8px;
+        width: 600px;
+        margin-top: 30px;
+        font-weight: 600;
+    }
+
+    .rumus7 h2 {
+        font-size: 12px;
+        margin-left: -7px;
+        font-weight: 600px;
+        width: 600px;
+    }
+
+    .tekan1 .btn-dark {
+        margin-left: 8px;
+        background-color: dodgerblue;
+        border: 0px;
+        margin-top: 30px;
+        width: 280px;
+        font-weight: 600;
+        height: 45px;
+    }
+}
+
+.kotak3 img {
+    width: 300px;
+    margin-left: 450px;
+    margin-top: 40px;
+}
+
+.rumus8 h1 {
+    font-size: 20px;
+    margin-left: 400px;
+    width: 500px;
+    margin-top: 30px;
+    font-weight: 600;
+}
+
+.rumus9 h2 {
+    font-size: 20px;
+    margin-left: 539px;
+    font-weight: 600;
+}
+
+.tekan2 .btn-dark {
+    margin-left: 460px;
+    background-color: dodgerblue;
+    border: 0px;
+    margin-top: 30px;
+    width: 280px;
+    font-weight: 600;
+    height: 45px;
+}
+
+@media (max-width: 575.98px) {
+    .kotak3 img {
+        width: 200px;
+        margin-left: 50px;
+        margin-top: 40px;
+    }
+
+    .rumus8 h1 {
+        font-size: 12px;
+        margin-left: 22px;
+        width: 600px;
+        margin-top: 30px;
+        font-weight: 600;
+    }
+
+    .rumus9 h2 {
+        font-size: 12px;
+        margin-left: 109px;
+        font-weight: 600px;
+        width: 600px;
+    }
+
+    .tekan2 .btn-dark {
+        margin-left: 8px;
+        background-color: dodgerblue;
+        border: 0px;
+        margin-top: 30px;
+        width: 280px;
+        font-weight: 600;
+        height: 45px;
+    }
+}
+
+/* New */
+.kotak1 svg {
+    overflow: hidden;
+    vertical-align: middle;
+    width: 210px;
+    height: 210px;
+    margin-top: 30px;
+}
+
+.kotak1 .btn-primary {
+    margin-top: 50px;
+
+}
+
+.kotak1 svg {
+    overflow: hidden;
+    vertical-align: middle;
+    width: 310px;
+    height: 310px;
+    margin-top: 30px;
+}
+
+.kotak1 .btn-primary {
+    margin-top: 50px;
+
+}
+
+.tekan4 .btn-dark {
+    margin-left: 850px;
+    margin-top: -150px;
+    width: 260px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: dodgerblue;
+    border: 0px;
+}
+
+.talk3 h3 {
+    font-size: 15px;
+    color: rgb(73, 152, 68);
+    margin-left: 60px;
+    margin-top: 4px;
+}
+
+.talk4 h4 {
+    font-size: 15px;
+    margin-left: 110px;
+    margin-top: -26px;
+    color: darkgray;
+}
+
+.gambar2 img {
+    margin-top: -63px;
+    margin-left: 33px;
+    width: 15px;
+}
+
+.gambar1 img {
+    margin-left: 250px;
+    width: 90px;
+    margin-top: -53px;
+}
+
+.image6 img {
+    width: 500px;
+    margin-top: -19px;
+    margin-left: -6px;
+}

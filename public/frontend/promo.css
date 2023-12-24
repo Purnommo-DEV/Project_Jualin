@@ -1,0 +1,252 @@
+/* promo rafli */
+.bulatan1 .carousel-indicators {
+    bottom: 20px;
+    margin-left: -800px;
+}
+
+.buton2 .btn.btn-primary {
+    border: 1px;
+    border-radius: 7px;
+    margin-top: 16px;
+    margin-left: -1030px;
+    width: 116px;
+    color: darkgray;
+    border-style: inset;
+    border-color: darkgray;
+    background-color: #fff;
+    font-size: 12px;
+}
+
+.buton3 .btn.btn-primary {
+    border: 1px;
+    border-radius: 7px;
+    margin-top: -64px;
+    margin-left: -716px;
+    width: 155px;
+    color: darkgray;
+    border-style: inset;
+    border-color: darkgray;
+    background-color: #fff;
+    font-size: 12px;
+    padding-left: 18px;
+}
+
+.buton4 .btn.btn-primary {
+    border: 1px;
+    border-radius: 7px;
+    margin-top: -110px;
+    margin-left: -438px;
+    width: 80px;
+    color: darkgray;
+    border-style: inset;
+    border-color: darkgray;
+    background-color: #fff;
+    font-size: 12px;
+    padding-left: 14px;
+}
+
+.buton5 .btn.btn-primary {
+    border: 1px;
+    border-radius: 7px;
+    margin-top: -158px;
+    margin-left: -214px;
+    width: 99px;
+    color: darkgray;
+    border-style: inset;
+    border-color: darkgray;
+    background-color: #fff;
+    font-size: 12px;
+    padding-left: 14px;
+}
+
+.buton6 .btn.btn-primary {
+    border: 1px;
+    border-radius: 7px;
+    margin-top: -205px;
+    margin-left: 57px;
+    width: 125px;
+    color: darkgray;
+    border-style: inset;
+    border-color: darkgray;
+    background-color: #fff;
+    font-size: 12px;
+    padding-left: 8px;
+}
+
+.buton7 .btn.btn-primary {
+    border: 1px;
+    border-radius: 7px;
+    margin-top: -251px;
+    margin-left: 349px;
+    width: 114px;
+    color: darkgray;
+    border-style: inset;
+    border-color: darkgray;
+    background-color: #fff;
+    font-size: 12px;
+    padding-left: 9px;
+}
+
+.buton8 .btn.btn-primary {
+    border: 1px;
+    border-radius: 7px;
+    margin-top: -297px;
+    margin-left: 578px;
+    width: 68px;
+    color: darkgray;
+    border-style: inset;
+    border-color: darkgray;
+    background-color: #fff;
+    font-size: 12px;
+    padding-left: 8px;
+}
+
+.prmo2 .card-deck {
+    width: 1169px;
+    margin-top: -25px;
+}
+
+.spkkpi2 h5 {
+    font-size: 15px;
+}
+
+.tkab2 p {
+    color: #e98e1b;
+    font-weight: 600;
+    margin-left: 24px;
+    margin-top: -32px;
+    font-size: 15px;
+}
+
+.tkab2 img {
+    width: 64px;
+    margin-left: -22px;
+}
+
+.dskn2 p {
+    font-size: 11px;
+    margin-top: 8px;
+    color: brown;
+    font-weight: 600;
+    border: 1px;
+    background-color: bisque;
+    width: 72px;
+    padding-left: 4px;
+}
+
+.dskn2 h2 {
+    font-size: 10px;
+    color: darkgray;
+    margin-left: 78px;
+    margin-top: -17px;
+}
+
+.dskn2 img {
+    width: 54px;
+    margin-left: 76px;
+    margin-top: -36px;
+}
+
+.hrgitem5 h2 {
+    font-size: 21px;
+    margin-top: -8px;
+}
+
+.nlaiprd2 .fa {
+    margin-top: 18px;
+    color: orange;
+    font-size: 12px;
+}
+
+.nlaiprd2 h2 {
+    font-size: 14px;
+    margin-left: 82px;
+    margin-top: -20px;
+}
+
+.nlaiprd2 h3 {
+    font-size: 12px;
+    margin-left: 113px;
+    margin-top: -14px;
+    color: darkgray;
+    width: 1000px;
+}
+
+.urtandrop2 h1 {
+    font-size: 13px;
+    margin-left: 753px;
+    margin-top: -163px;
+}
+
+.urtandrop2 .btn {
+    border: 1px;
+    border-radius: 7px;
+    margin-top: -42px;
+    margin-left: 813px;
+    width: 114px;
+    color: darkgray;
+    border-style: inset;
+    border-color: darkgray;
+    background-color: #fff;
+    font-size: 11px;
+    padding-left: 8px;
+}
+
+.krsi2 h5 {
+    font-size: 15px;
+}
+
+.tkab3 img {
+    width: 64px;
+    margin-left: -103px;
+    margin-top: 23px;
+}
+
+.tkab3 p {
+    color: #e98e1b;
+    font-weight: 600;
+    margin-left: 24px;
+    margin-top: -32px;
+    font-size: 15px;
+}
+
+.tkab4 p {
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 31px;
+}
+
+.tkab5 p {
+    color: #e98e1b;
+    font-weight: 600;
+    margin-left: 24px;
+    margin-top: -32px;
+    font-size: 15px;
+}
+
+.tkab5 img {
+    width: 64px;
+    margin-left: -141px;
+    margin-top: 23px;
+}
+
+.tkab7 p {
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 31px;
+}
+
+.prmo3 .card-deck {
+    width: 1169px;
+    margin-top: 28px;
+}
+
+.prmo4 .card-deck {
+    width: 1169px;
+    margin-top: 28px;
+}
+
+.tahanbutton2 .btn-toolbar {
+    margin-left: 601px;
+    width: 1000px;
+}
